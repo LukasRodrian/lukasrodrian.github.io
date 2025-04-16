@@ -14,7 +14,7 @@ Teaching Assistant, University of Zurich
 - **Econometrics for Policy Analysts** (Prof. Yanagizawa-Drott), Spring 2024
 
 ## Current Thesis Supervision
-I co-supervise Bachelor’s and Master’s theses in collaboration with Prof. Zweimüller. If you are interested in writing your thesis under our joint supervision, please follow the application guidelines outlined on this <a href="https://www.econ.uzh.ch/en/people/faculty/zweimueller/teaching/orientationguide.html" target="_blank" rel="noopener noreferrer">website</a>.
+I co-supervise Bachelor’s and Master’s theses in collaboration with Prof. Zweimüller at the University of Zurich. If you are interested in writing your thesis under our joint supervision, please follow the application guidelines outlined on this <a href="https://www.econ.uzh.ch/en/people/faculty/zweimueller/teaching/orientationguide.html" target="_blank" rel="noopener noreferrer">website</a>.
 
 ## Previous Teaching
 Teaching Assistant, University of Mannheim
