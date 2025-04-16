@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>University of Zurich (UZH)</p>
     <p>Department of Economics</p>
-    <p>Schönberggasse 1, 8001 Zurich, CH</p>
+    <p>Schönberggasse 1, 8001 Zurich, Switzerland</p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -31,7 +31,7 @@ I’m a third-year PhD candidate in <a href="https://www.econ.uzh.ch/en.html" ta
 
 My research interests span a wide range of topics in public and labor economics. 
 
-Before joining UZH, I was a Pre-Doctoral Research Fellow with Prof. Camille Landais at the London School of Economics (LSE).
+Before joining UZH, I was a Pre-Doctoral Research Fellow to Prof. Camille Landais at the London School of Economics (LSE).
 
 I hold both a BSc and MSc in Economics from the University of Mannheim, where I also worked as a research assistant to Ass. Prof. Arthur Seibold.
 
