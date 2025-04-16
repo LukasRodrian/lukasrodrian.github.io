@@ -29,10 +29,10 @@ latest_posts:
 ---
 I’m a third-year PhD candidate in <a href="https://www.econ.uzh.ch/en.html" target="_blank" rel="noopener noreferrer">Economics at the University of Zurich (UZH)</a>, supported by a PhD scholarship from the University Research Priority Program (URPP) <a href="https://www.urpp-equality.uzh.ch/en.html" target="_blank" rel="noopener noreferrer">Equality of Opportunity</a>.
 
-My research interests span a wide range of topics in public and labor economics. 
+My research interests span a wide range of topics in **public and labor economics**. I'm always happy to talk about research - feel free to get in touch!
 
 Before joining UZH, I was a Pre-Doctoral Research Fellow to Prof. Camille Landais at the London School of Economics (LSE).
 
-I hold both a BSc and MSc in Economics from the University of Mannheim, where I also worked as a research assistant to Ass. Prof. Arthur Seibold.
+I hold both a BSc and an MSc in Economics from the University of Mannheim, where I also worked as a research assistant to Ass. Prof. Arthur Seibold.
 
 <a id="cv-link" href="https://lukasrodrian.github.io/assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer">Link to my CV.</a>
