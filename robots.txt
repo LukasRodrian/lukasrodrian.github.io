@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lukasrodrian.github.io/al-folio/sitemap.xml
+Sitemap: https://lukasrodrian.github.io/sitemap.xml
