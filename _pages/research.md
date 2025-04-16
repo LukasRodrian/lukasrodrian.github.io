@@ -19,4 +19,4 @@ with [Agustina Colonna](https://www.agustinacolonna.com/) and [Jorge Pérez Pér
 - Presentations: UZH Doctoral Development Seminar, UZH Doctoral Labor Seminar\*
 
 
-\* *Presented by Co-Author*
+\* *Presented by co-author*
