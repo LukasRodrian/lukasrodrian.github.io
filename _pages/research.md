@@ -10,13 +10,13 @@ horizontal: false
 ---
 
 ## Work in Progress
-**<a href="https://www.google.com" target="_blank" rel="noopener noreferrer">Paper 1</a>**  
-with [XXX](https://google.com)
-- Presentations: YYY\*
+**Challenging Conventional Wisdom: Theoretical (Ir)relevance of Statutory Incidence of Ad Valorem Taxes**  
+with [Konstantin Poensgen](https://konstantinpoensgen.github.io/)
+- Presentations:  Harvard Graduate Labor/PF Workshop\*, Harvard Graduate Contracts Workshop\*
 
-**<a href="https://www.google.com" target="_blank" rel="noopener noreferrer">Paper 2</a>**  
-with [XXX](https://google.com)
-- Presentations: YYY\*
+**Violation and Enforcement of Labor Regulations: Evidence from Mexican Firm Inspections**  
+with [Agustina Colonna](https://www.agustinacolonna.com/) and [Jorge Pérez Pérez](https://jorgeperezperez.com/)
+- Presentations: UZH Doctoral Development Seminar, UZH Doctoral Labor Seminar\*
 
 
 \* *Presented by Co-Author*
