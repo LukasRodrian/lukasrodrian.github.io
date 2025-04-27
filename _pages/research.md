@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 ## Work in Progress
-**Challenging Conventional Wisdom: Theoretical (Ir)relevance of Statutory Incidence of Ad Valorem Taxes**  
+**<a id="paper-incidence" href="https://lukasrodrian.github.io/assets/pdf/Statutory_Incidence_Ad_Valorem_Taxes_PR.pdf" target="_blank" rel="noopener noreferrer">Challenging Conventional Wisdom: Theoretical (Ir)relevance of Statutory Incidence of Ad Valorem Taxes</a>**  
 with [Konstantin Poensgen](https://konstantinpoensgen.github.io/)
 - Presentations:  Harvard Graduate Labor/PF Workshop\*, Harvard Graduate Contracts Workshop\*
 
