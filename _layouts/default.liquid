@@ -73,6 +73,25 @@
         }
       });
     </script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const cvLink = document.getElementById("cv-link");
+        if (cvLink) {
+          cvLink.addEventListener("click", function () {
+            console.log("CV link clicked!");
+            insights.track({ id: "show-cv" });
+          });
+        }
+    
+        const paperLink = document.getElementById("paper-incidence");
+        if (paperLink) {
+          paperLink.addEventListener("click", function () {
+            console.log("Paper incidence link clicked!");
+            insights.track({ id: "show-paper-incidence" });
+          });
+        }
+      });
+    </script>
 
   </body>
 </html>
