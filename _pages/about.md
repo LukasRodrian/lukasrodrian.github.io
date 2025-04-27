@@ -35,4 +35,4 @@ Before joining UZH, I was a Pre-Doctoral Research Fellow to Prof. Camille Landai
 
 I hold both a BSc and an MSc in Economics from the University of Mannheim, where I also worked as a research assistant to Ass. Prof. Arthur Seibold.
 
-<a id="cv-link" href="https://lukasrodrian.github.io/assets/pdf/CV_short_LR.pdf" target="_blank" rel="noopener noreferrer">Link to my CV.</a>
+<a id="cv-link" href="https://lukasrodrian.github.io/assets/pdf/CV_short_LR.pdf" target="_blank" rel="noopener noreferrer">Link to my CV</a>
