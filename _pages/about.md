@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>University of Zurich (UZH)</p>
     <p>Department of Economics</p>
-    <p>Schönberggasse 1, 8001 Zurich, Switzerland</p>
+    <p>Schönberggasse 1 8001 Zurich, Switzerland</p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
