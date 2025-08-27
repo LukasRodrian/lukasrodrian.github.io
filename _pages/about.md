@@ -30,7 +30,7 @@ latest_posts:
 ---
 I’m a third-year PhD candidate in <a href="https://www.econ.uzh.ch/en.html" target="_blank" rel="noopener noreferrer">Economics at the University of Zurich (UZH)</a>, supported by a PhD scholarship from the University Research Priority Program (URPP) <a href="https://www.urpp-equality.uzh.ch/en.html" target="_blank" rel="noopener noreferrer">Equality of Opportunity</a>.
 
-My research interests span a wide range of topics in **public and labor economics across low-, middle, and high-income countries**. I am currently working on projects that focus on social insurances, tax incidence, or labor regulations. I'm always happy to talk about research - feel free to get in touch!
+My research interests span a wide range of topics in **public and labor economics across low-, middle-, and high-income countries**. I am currently working on projects that focus on social insurances, tax incidence, or labor regulations. I'm always happy to talk about research - feel free to get in touch!
 
 Before joining UZH, I was a Pre-Doctoral Research Fellow to Prof. Camille Landais at the <a href="https://www.lse.ac.uk/economics" target="_blank" rel="noopener noreferrer"> London School of Economics (LSE)</a>, where I contributed to the following two papers: "Wealth and Property Taxation in the United States" (Dray, Landais, Stantcheva,<a href="http://www.nber.org/papers/w31080" target="_blank" rel="noopener noreferrer"> NBER WP 31080</a>)  and "Taxing Top Wealth: Migration Responses and their Aggregate Economic Implications" (Jakobsen, Kleven, Kolsrud, Landais, Muñoz,<a href="https://www.nber.org/papers/w32153" target="_blank" rel="noopener noreferrer"> NBER WP 32153</a>).  
 
