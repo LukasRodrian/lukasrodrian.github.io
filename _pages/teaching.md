@@ -10,6 +10,7 @@ nav_order: 6
 
 ## Current Teaching
 Teaching Assistant, University of Zurich
+- **Policy Implications of Rising Inequality (Seminar)** (Prof. Scheuer), Fall 2025
 - **Labor Economics** (Prof. Zweimüller), Fall 2023, 2024
 - **Econometrics for Policy Analysts** (Prof. Yanagizawa-Drott), Spring 2024
 
