@@ -22,7 +22,8 @@ with [Konstantin Poensgen](https://konstantinpoensgen.github.io/)
 
 **Violation and Enforcement of Labor Regulations: Evidence from Mexican Firm Inspections**  
 with [Agustina Colonna](https://www.agustinacolonna.com/) and [Jorge Pérez Pérez](https://jorgeperezperez.com/)
-- **Presentations**: UZH Doctoral Development Seminar 2023, UZH Doctoral Labor Seminar 2024\*, UZH Doctoral Labor Seminar 2025
+- Draft coming soon!
+- **Presentations**: UZH Doctoral Development Seminar 2023, UZH Doctoral Labor Seminar 2024\*, UZH Doctoral Labor Seminar 2025, Uppsala Firms and Public Policy Workshop 2025, IIPF Nairobi 2025 (honorable mention for IIPF Young Economist Award) 
 
 
 \* *Presented by co-author*
