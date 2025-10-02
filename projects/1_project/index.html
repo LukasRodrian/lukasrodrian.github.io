@@ -70,5 +70,13 @@ img: /assets/img/12.jpg
             insights.track({ id: "show-paper-incidence" });
           });
         }
+
+        const paperLink = document.getElementById("paper-insp");
+        if (paperLink) {
+          paperLink.addEventListener("click", function () {
+            console.log("Paper inspections link clicked!");
+            insights.track({ id: "show-paper-insp" });
+          });
+        }
       });
     </script> </body> </html>
