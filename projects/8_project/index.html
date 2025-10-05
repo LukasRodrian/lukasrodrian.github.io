@@ -84,12 +84,12 @@ img: /assets/img/12.jpg
           });
         }
 
-        const paperLink = document.getElementById("paper-insp");
-        if (paperLink) {
-          paperLink.addEventListener("click", function () {
+        const paperInspLink = document.getElementById("paper-insp");
+        if (paperInspLink) {
+          paperInspLink.addEventListener("click", function () {
             console.log("Paper inspections link clicked!");
             insights.track({ id: "show-paper-insp" });
-          });
+        });
         }
       });
     </script> </body> </html>
