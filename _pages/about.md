@@ -28,7 +28,7 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I’m a third-year PhD candidate in <a href="https://www.econ.uzh.ch/en.html" target="_blank" rel="noopener noreferrer">Economics at the University of Zurich (UZH)</a>, supported by a PhD scholarship from the University Research Priority Program (URPP) <a href="https://www.urpp-equality.uzh.ch/en.html" target="_blank" rel="noopener noreferrer">Equality of Opportunity</a>.
+I’m a fourth-year PhD candidate in <a href="https://www.econ.uzh.ch/en.html" target="_blank" rel="noopener noreferrer">Economics at the University of Zurich (UZH)</a>, supported by a PhD scholarship from the University Research Priority Program (URPP) <a href="https://www.urpp-equality.uzh.ch/en.html" target="_blank" rel="noopener noreferrer">Equality of Opportunity</a>.
 
 My research interests span a wide range of topics in **public and labor economics across low-, middle-, and high-income countries**. I am currently working on projects that focus on social insurances, tax incidence, or labor regulations. I'm always happy to talk about research - feel free to get in touch!
 
