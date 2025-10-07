@@ -1,6 +1,31 @@
 <!-- Metadata, OpenGraph and Schema.org -->
 {% include metadata.liquid %}
 
+{%- assign site_title = site.title | default: site.first_name | append: " " | append: site.last_name -%}
+{%- assign site_url = site.url | default: "https://lukasrodrian.github.io" -%}
+{%- assign author_name = site.author.name | default: site.first_name | append: " " | append: site.last_name -%}
+
+<!-- Open Graph -->
+<meta property="og:site_name" content="{{ site_title }}">
+<meta property="og:title" content="{{ page.title | default: site_title }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:description" content="{{ site.description }}">
+<meta name="description" content="{{ site.description }}">
+
+<!-- Structured data (schema.org) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ site_title }}",
+  "url": "{{ site_url }}",
+  "publisher": {
+    "@type": "Person",
+    "name": "{{ author_name }}"
+  }
+}
+</script>
+
 <!-- Google verification -->
 <meta name="google-site-verification" content="KbaTcAy18Y5rkisModd-tMmkTha2SrkxZGm68iMAXAM" />
 
