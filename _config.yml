@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Lukas Rodrian # the website title (if blank, full name will be used instead)
 first_name: Lukas
 middle_name: 
 last_name: Rodrian
@@ -22,6 +22,10 @@ last_updated: false # set to true if you want to display last updated in the foo
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
+#  Added for structured data and Open Graph
+author:
+  name: "Lukas Rodrian"
+  url: "https://lukasrodrian.github.io"
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
