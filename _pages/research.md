@@ -20,7 +20,7 @@ with [Agustina Colonna](https://www.agustinacolonna.com/) and [Jorge Pérez Pér
 - **Presentations**: UZH Doctoral Development Seminar 2023, UZH Doctoral Labor Seminar 2024\* 2025 2026\*, Uppsala Firms and Public Policy Workshop 2025, IIPF Nairobi 2025, Firms, Workers, and the Labor Market Workshop Lausanne 2025, La Strada Bocconi 2025, Micro and Macro Perspectives of the Labor Market Duke 2026, YSEM 2026, Boston College PhD Conference 2026, EAYE 2026\*, SSES 2026, BENA 2026, FILMAD Naples 2026\*.
 - Honorable mention for Young Economist Award at the 81st IIPF Congress in Nairobi
 
-**<a id="paper-incidence" href="https://lukasrodrian.github.io/assets/pdf/Statutory_Incidence_Ad_Valorem_Taxes_PR.pdf" target="_blank" rel="noopener noreferrer">Statutory Incidence of Ad Valorem Taxes: Revisiting Classical Theory and Policy Implications</a>** (updated version!) 
+**<a id="paper-incidence" href="https://lukasrodrian.github.io/assets/pdf/Statutory_Incidence_Ad_Valorem_Taxes_PR.pdf" target="_blank" rel="noopener noreferrer">Statutory Incidence of Ad Valorem Taxes: Revisiting Classical Theory and Policy Implications</a>** (updated version!)*<br>
 with [Konstantin Poensgen](https://konstantinpoensgen.github.io/)
 - **SSRN WP**: <a id="paper-incidence" href="https://dx.doi.org/10.2139/ssrn.5232926" target="_blank" rel="noopener noreferrer"> 5232926</a>
   <details>
