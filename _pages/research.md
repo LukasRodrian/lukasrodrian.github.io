@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 ## Working Papers
-**<a id="paper-insp" href="https://lukasrodrian.github.io/assets/pdf/Viol_enf_workpl_regul_CPR.pdf" target="_blank" rel="noopener noreferrer">Violation and Enforcement of Workplace Regulations: Evidence from Mexican Firm Inspections</a>**  
+**<a id="paper-insp" href="https://lukasrodrian.github.io/assets/pdf/Viol_enf_workpl_regul_CPR.pdf" target="_blank" rel="noopener noreferrer">Violation and Enforcement of Workplace Regulations: Evidence from Mexican Firm Inspections</a>** (updated version!)  
 with [Agustina Colonna](https://www.agustinacolonna.com/) and [Jorge Pérez Pérez](https://jorgeperezperez.com/)
 - **SSRN WP**: <a id="paper-insp" href="https://dx.doi.org/10.2139/ssrn.5557740" target="_blank" rel="noopener noreferrer"> 5557740</a>
   <details>
@@ -20,7 +20,7 @@ with [Agustina Colonna](https://www.agustinacolonna.com/) and [Jorge Pérez Pér
 - **Presentations**: UZH Doctoral Development Seminar 2023, UZH Doctoral Labor Seminar 2024\*, UZH Doctoral Labor Seminar 2025, Uppsala Firms and Public Policy Workshop 2025, IIPF Nairobi 2025, Firms, Workers, and the Labor Market Workshop Lausanne 2025, La Strada Bocconi 2025
 - Honorable mention for Young Economist Award at the 81st IIPF Congress in Nairobi
 
-**<a id="paper-incidence" href="https://lukasrodrian.github.io/assets/pdf/Statutory_Incidence_Ad_Valorem_Taxes_PR.pdf" target="_blank" rel="noopener noreferrer">Statutory Incidence of Ad Valorem Taxes: Revisiting Classical Theory and Policy Implications</a>**  
+**<a id="paper-incidence" href="https://lukasrodrian.github.io/assets/pdf/Statutory_Incidence_Ad_Valorem_Taxes_PR.pdf" target="_blank" rel="noopener noreferrer">Statutory Incidence of Ad Valorem Taxes: Revisiting Classical Theory and Policy Implications</a>** (updated version!) 
 with [Konstantin Poensgen](https://konstantinpoensgen.github.io/)
 - **SSRN WP**: <a id="paper-incidence" href="https://dx.doi.org/10.2139/ssrn.5232926" target="_blank" rel="noopener noreferrer"> 5232926</a>
   <details>
