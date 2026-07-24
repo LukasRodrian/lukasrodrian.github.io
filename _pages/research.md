@@ -28,7 +28,7 @@ with [Konstantin Poensgen](https://konstantinpoensgen.github.io/)
       This paper revisits the canonical result that statutory tax incidence is theoretically irrelevant for economic outcomes in competitive quilibrium. Shifting statutory incidence toward the demand side reduces the consumer price, raises the supplier price, and increases quantity, whereas the tax revenue effect is ambiguous. Changes in the tax base and effective tax rates explain these results. We derive new empirically tractable incidence formulas in response to statutory incidence shifts, which we quantify using simulations in the payroll tax context. We apply these formulas to reduced form estimates of price changes after statutory incidence shifts, allowing us to point-identify elasticities and parameters like tax evasion. Finally, we apply our framework to OECD payroll taxes, documenting that employer shares rise with total payroll taxes and offset nominal tax differences. These stylized facts further highlight the importance of accounting for statutory incidence in policy and empirical analyses.
   </details>
 - <a href="https://konstantinpoensgen.github.io/docs/statutory_incidence/Statutory_Incidence_Ad_Valorem_Taxes_graphs_PR.pdf" target="_blank" rel="noopener noreferrer">Graphs</a>, <a href="https://konstantinpoensgen.github.io/docs/statutory_incidence/Statutory_Incidence_Ad_Valorem_Taxes_graphs_PR.zip" target="_blank" rel="noopener noreferrer">Files</a>  
-- **Presentations**:  Harvard Graduate Labor/PF Workshop\*, Harvard Graduate Contracts Workshop\*, UZH Doctoral Labor Seminar 2025
+- **Presentations**:  Harvard Graduate Labor/PF Workshop\*, Harvard Graduate Contracts Workshop\*, UZH Doctoral Labor Seminar 2025, NTA Annual Conference 2025\*
 
   
 
